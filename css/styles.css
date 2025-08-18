@@ -166,10 +166,12 @@
       border-radius: 2px;
   }
 
-  .about-img-drapeau {
-      width: 30%;
-      height: 30%;
-      border-radius: 50% 100% 50% 100%;
+  .about-img-maroc {
+      width: 55%;
+      height: 55%;
+      border-radius: 10%;
+
+
   }
 
   .Section-sub_title {
