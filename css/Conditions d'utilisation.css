@@ -57,11 +57,6 @@
       position: relative;
   }
 
-  #nav1 {
-      color: #ffd700;
-  }
-
-
   .nav-menu a:hover {
       color: #ffd700;
       transform: translateY(-2px);
@@ -81,7 +76,6 @@
   .nav-menu a:hover::after {
       width: 100%;
   }
-
 
   .nav__mobile-menu {
       display: none;
@@ -140,11 +134,6 @@
       gap: 10px;
   }
 
-  .mobile-p:nth-child(3) {
-      background-color: rgba(165, 42, 42, 0.699);
-  }
-
-
 
 
 
@@ -171,7 +160,7 @@
   .hero h1 {
       font-size: 4rem;
       color: #f4e4bc;
-      margin-top: 6rem;
+      margin-top: 4rem;
       text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
       letter-spacing: 3px;
   }
@@ -212,7 +201,9 @@
 
 
 
-  /* Intro */
+  /*Intro*/
+
+
   .hero-content-p.minimal {
       max-width: 900px;
       margin: 3rem auto 0 auto;
@@ -274,9 +265,7 @@
       }
   }
 
-
   /* Sections */
-
   .section {
       padding: 5rem 2rem;
       max-width: 1200px;
@@ -314,8 +303,6 @@
   .Section-sub_title {
       color: #ffd700;
   }
-
-
 
   /* About Section */
   .about {
