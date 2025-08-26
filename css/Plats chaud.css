@@ -57,6 +57,10 @@
       position: relative;
   }
 
+  #Description {
+      font-size: 0.8rem;
+  }
+
   .nav-menu a:hover {
       color: #ffd700;
       transform: translateY(-2px);
